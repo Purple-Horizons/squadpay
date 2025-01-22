@@ -95,14 +95,10 @@ SquadPay is MIT licensed. See [LICENSE](LICENSE) for details.
 - Website: [squadpay.net](https://squadpay.net)
 - Documentation: [docs.squadpay.net](https://docs.squadpay.net)
 - GitHub: [github.com/squadpay](https://github.com/squadpay)
-- Discord: [discord.gg/squadpay](https://discord.gg/squadpay)
-- Twitter: [@squadpay](https://twitter.com/squadpay)
 
 ## 💪 Support
 
 - Star this repo
-- Follow us on [Twitter](https://twitter.com/squadpay)
-- Join our [Discord](https://discord.gg/squadpay)
 - Report issues
 - Submit PRs
 
